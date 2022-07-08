@@ -1,4 +1,10 @@
-## Kangleipak: A Reference
+<p align="center">
+  <img src="graphics/logo.svg" />
+</p>
+
+<h2 align="center">
+  Kangleipak: A Reference
+</h2>
 
 Status: Work in progress.
 
@@ -7,9 +13,9 @@ Note: I have just begun to work on this project. More content will be added soon
 ### Table of Contents
 
 - Preface
-1. Transport
-2. Language
-3. Cuisine
+1. [Transport](#transport)
+2. [Language](#language)
+3. [Cuisine](#cuisine)
 4. Lodging
 5. Climate
 6. History
@@ -30,7 +36,7 @@ This guide is written by a mathematician with no formal training in survival tac
 
 The first five chapters on transport, language, cuisine, lodging and climate are extreme survival tactics that you desperately need to know in order to keep your organic body intact. The subsequent chapters on history, art and literature will unviel the rich history, art and literature of this beautiful land. The chapter on places talk about, well, the places, of course &mdash; good to know if you are a tourist or traveler. Then there is a chapter on politics and about the beautiful people of this land. In the last chapter, I will train you what you can speak and what you can't!
 
-### 1 Transport
+### Transport
 
 As of 2022, Kangleipak is accessible either by air or road. There is only one airport &mdash; the [Imphal Airport (IMF)](https://en.wikipedia.org/wiki/Imphal_Airport), which likes boasting about being the third busiest airport in northeastern India but the truth is that it's a pretty lazy airport. Kangleipak residents possess the luxury of reaching there within 50 minutes of flight departure and still have some free time before boarding the plane despite being warned to reach the airport 3 hours prior to departure. It is connected to Delhi, Guwahati, Kolkata by direct flights.
 
@@ -38,11 +44,11 @@ The other way to reach Kangleipak is through road transport, which I don't recom
 
 Having reached Kangleipak, you are in good company. The road transport system is pretty good in the valley. If you venture out farther from the heart of [Imphal](https://en.wikipedia.org/wiki/Imphal) (the capital), you will find the company of holed and cracked roads. If you venture out a lot farther, keep your seatbelts on, it's gonna be a bumpy ride. You can board passenger buses, cabs and autos in most parts of the valley if you know how and what to speak, which brings up the next chapter,
 
-### 2 Language
+### Language
 
 If you ask me about the official language of Manipur, I'd say 'Meeteilon'. It is written using the [Meetei Script](https://github.com/ronhuidrom/meetei-script). But practically, if you know 'English', you are almost good to go &mdash; well, not very practically if you venture out considerably far from the capital where you are likely to run into mortals that know only Meeteilon.
 
-### 3 Cuisine
+### Cuisine
 
 We just landed on one of the best things about Kangleipak. The people have a supreme amount of love for fish. Although salt-water fishes are imported to the state, a majority of the people thrive on fresh-water fishes which are provided by a lot of rivers and most prominently by the [Loktak lake](https://en.m.wikipedia.org/wiki/Loktak_Lake). Indeed, the Loktak lake (the largest fresh-water lake in the northeastern India) has been feeding the bellies of the people for centuries. A considerable number of the people has a thing for meat &mdash; chicken, pork, beef, among others. You can even find people who have fed on goat meat, buffalo meat, dog meat, cat meat, and even snakes. 
 
