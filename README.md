@@ -1,6 +1,4 @@
-## A Sloppy Guide to Survival in Kangleipak (ꯀꯪꯂꯩꯄꯛꯇ ꯍꯤꯡꯅꯕ ꯂꯥꯏꯋꯥ)
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+## Kangleipak: A Reference
 
 Status: Work in progress.
 
@@ -87,4 +85,4 @@ If you want to contribute, reach out to [ronhuidrom@gmail.com](mailto:ronhuidrom
 
 ### License
 
-The book is licensed under [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0).
+The book is licensed under MIT License.
