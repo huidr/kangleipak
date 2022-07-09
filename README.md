@@ -13,19 +13,19 @@ Note: I have just begun to work on this project. More content will be added soon
 ### Table of Contents
 
 - Preface
-1. [Transport](#transport)
-2. [Language](#language)
-3. [Cuisine](#cuisine)
-4. Lodging
-5. Climate
-6. History
-7. Art
-8. Literature
-9. Songs, Movies, Dramas, etc
-10. Places
-11. Politics
-12. The People of Kangleipak
-13. What You Can Speak and What You Can't
+- [Transport](#transport)
+- [Language](#language)
+- [Cuisine](#cuisine)
+- Lodging
+- Climate
+- History
+- Art
+- Literature
+- Songs, Movies, Dramas, etc
+- Places
+- Politics
+- The People of Kangleipak
+- What You Can Speak and What You Can't
 - Acknowledgements
 - Contributing
 - License
