@@ -12,7 +12,7 @@ Note: I have just begun to work on this project. More content will be added soon
 
 ### Table of Contents
 
-- Preface
+- [Preface](#preface)
 - [Transport](#transport)
 - [Language](#language)
 - [Cuisine](#cuisine)
