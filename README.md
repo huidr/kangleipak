@@ -84,11 +84,3 @@ We have only scratched the surface. The cuisine of the land is much more than fi
 ### What You Can Speak and What You Can't
 
 ### Acknowledgements
-
-### Contributing
-
-If you want to contribute, reach out to [ronhuidrom@gmail.com](mailto:ronhuidrom@gmail.com).
-
-### License
-
-The book is licensed under MIT License.
